@@ -1,0 +1,67 @@
+body{
+   
+}
+.primary-background{
+    background-color: #32074d !important ;
+}
+.text-color{
+	color: #32074d !important ;
+}
+
+.back-pic{
+    background-color: #380c17;
+}
+.xyz-carousel{
+    min-width: 576px;
+}
+.xyz-caption{
+    background-color: rgba(0, 0, 0,0.4);
+}
+.footer{
+    height: 400px;
+    width: 100%;
+    background-color: black;
+}
+.footer-name{
+    margin-top: 10%;
+    font-size:25px;
+    text-align: left;
+    font-weight: bold;
+    color: white;
+}
+.foot-containt{
+    margin-top: 60px ;
+    margin-left: 10% ;
+    width: 200px;
+    background-color: black;
+}
+.footer-list{
+    margin-top: 10px;
+}
+.extra{
+    padding-top: 10px;
+}
+.footer-list a{
+    text-align: left;
+    font-weight: bold;
+    font-size: 15px;
+    color:#8c9597;
+    text-decoration: none;
+}
+.copyright{
+    width: 100%;
+    margin-top: 50px;
+    text-align: center;
+    color:white;
+    font-size: 15px;
+}
+.graytext{
+    color:#8c9597;
+    text-decoration: none;
+}
+.link:hover{
+    text-decoration: underline;
+}
+.footer-list a:hover{
+    color: #e9aaba;
+}
